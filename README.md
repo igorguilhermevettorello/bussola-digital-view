@@ -1,5 +1,5 @@
 # bussola-digital-view
-Frontend desenvolvido em react
+Frontend desenvolvido em react node -v 12.18.0
 
 - git clone git@github.com:igorguilhermevettorello/bussola-digital-view.git
 - cd bussola-digital-view
